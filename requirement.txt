@@ -1,0 +1,12 @@
+# Core dependencies
+PyQt6==6.7.1
+psycopg2-binary==2.9.9
+
+# PDF generation
+reportlab==4.2.5
+
+# (Optional) If you plan to include data export or Excel features later
+openpyxl==3.1.5
+
+# (Optional) If you’ll later add REST API or JSON communication
+requests==2.32.3
