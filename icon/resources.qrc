@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="icon/icon">
+    <file>account-logout-64.ico</file>
+    <file>activity-feed-32.ico</file>
+    <file>activity-feed-48.ico</file>
+    <file>close-window-64.ico</file>
+    <file>dashboard-5-32.ico</file>
+    <file>dashboard-5-48.ico</file>
+    <file>group-32.ico</file>
+    <file>group-48.ico</file>
+    <file>home-4-32.ico</file>
+    <file>home-4-48.ico</file>
+    <file>muscle_base.png</file>
+    <file>menu-4-32.ico</file>
+    <file>product-32.ico</file>
+    <file>product-48.ico</file>
+    <file>search-13-48.ico</file>
+    <file>user-48.ico</file>
+    <file>purchase-order-48.ico</file>
+    <file>chart-2-48.ico</file>
+    <file>chart-2-32.ico</file>
+    <file>purchase-order-32.ico</file>
+    <file>MaterialSymbolsInventory2Outline.png</file>
+    <file>MaterialSymbolsInventory2Outlinegray.png</file>
+    <file>return-32.ico</file>
+    <file>return-48.ico</file>
+  </qresource>
+</RCC>
